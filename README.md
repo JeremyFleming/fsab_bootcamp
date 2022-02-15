@@ -1,1 +1,1 @@
-# TODO: Fill me out!
+# This is the Full Stack at Brown Bootcamp Day 1 Project!
